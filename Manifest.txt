@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 19.0.2 (Oracle Corporation)
+Main-Class: fr.iutfbleau.sae31.outil.Main
+Class-Path: fr mariadb-java-client.jar
